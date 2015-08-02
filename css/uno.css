@@ -931,9 +931,11 @@ body {
   color: #666666; }
 
 ::selection {
+  color: #fff;
   background: #F33F62; }
 
 ::-moz-selection {
+  color: #fff;
   background: #F33F62; }
 
 a {
